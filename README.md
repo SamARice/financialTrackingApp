@@ -14,3 +14,8 @@ Currently I Track my finances using an excel sheet that I have to update manuall
 * Mobile compatibility
 * Custom Allocation script - allow feature to be used for things other than pet food, for things such as cloud usage on webapps
 * Investments and stocks portfolio tracking
+
+## Technical Features
+Code Base - HTML and {Code language here}
+Connections currently - None
+Libaries
